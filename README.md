@@ -1,0 +1,1 @@
+This repository contains mini / fun projects in frontend development.
